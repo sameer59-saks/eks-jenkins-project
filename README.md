@@ -64,9 +64,4 @@ With the EKS cluster up and running, you can deploy an NGINX application to the 
 
 This setup provides a robust CI/CD pipeline for managing an EKS cluster using Terraform and Jenkins. By following the steps outlined above, you can automate the deployment and management of your Kubernetes clusters on AWS.
 
-## Author
-
-Ansar Shaik
-
-For any queries, please contact me at [ansarshaik965@gmail.com](mailto:ansarshaik965@gmail.com).
 ```
